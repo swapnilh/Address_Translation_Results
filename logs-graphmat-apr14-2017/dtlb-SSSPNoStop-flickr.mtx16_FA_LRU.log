@@ -1,0 +1,18 @@
+ Results 
+ Summary 
+====================
+TLB Level: 0
+==================== 
+TLB_num: 0 The 4KB page access 581913779 2MB pages 0 1GB pages 0
+core: 0 TLB_num: 0  access: 581913779 hit: 576518834 ratio: 0.990729
+ TLB config : sets 16 entries 16 assoc 0
+------------------------------------
+ Access count 581913779
+Access count according to the TLBs 581913779
+ L1 Hit count: 576518834 : hitrate : 0.990729
+ Aggregated hit rate 0.990729
+=========================================
+ Total Instruction count: 581913779
+ Total DTLB miss: 5394945
+__L1_MKPI__ : 9.27104__L2_MKPI__ : 9.27104========= 
+ Total number of Flushes 0

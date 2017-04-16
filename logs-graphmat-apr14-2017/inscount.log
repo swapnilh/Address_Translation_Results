@@ -1,0 +1,216 @@
+Opening file:/nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx1
+Got: 820878 by 820878  vertices
+Got: 9837214 edges
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.24896
+Allocating nnz vals: 9837214
+fn time: 1.62584
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.190936
+Allocating nnz vals: 9837214
+fn time: 1.22976
+Finished GraphMat read + construction, time: 4.56012
+Completed 1 iterations 
+Degree Time = 187.749 ms 
+ Start Tracing
+Completed 49 iterations 
+ Stop
+Instruction Count: 40602147294
+Exiting..
+Opening file:/nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx1
+Got: 3566907 by 3566907  vertices
+Got: 45030389 edges
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 1.14141
+Allocating nnz vals: 45030389
+fn time: 7.39491
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 0.863922
+Allocating nnz vals: 45030389
+fn time: 5.82015
+Finished GraphMat read + construction, time: 20.5075
+Completed 1 iterations 
+Degree Time = 651.261 ms 
+ Start Tracing
+Completed 60 iterations 
+ Stop
+Instruction Count: 245674762926
+Exiting..
+Opening file:/nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx1
+Got: 5363260 by 5363260  vertices
+Got: 79023142 edges
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.77193
+Allocating nnz vals: 79023142
+fn time: 12.993
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.28736
+Allocating nnz vals: 79023142
+fn time: 9.64227
+Finished GraphMat read + construction, time: 35.4434
+Completed 1 iterations 
+Degree Time = 1102.804 ms 
+ Start Tracing
+Completed 53 iterations 
+ Stop
+Instruction Count: 376231359714
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx1
+Got: 820878 by 820878  vertices
+Got: 9837214 edges
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.246272
+Allocating nnz vals: 9837214
+fn time: 1.57712
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.193569
+Allocating nnz vals: 9837214
+fn time: 1.22969
+Finished GraphMat read + construction, time: 4.56
+ Start Tracing
+Completed 15 iterations 
+ Stop
+Instruction Count: 1480475537
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx1
+Got: 3566907 by 3566907  vertices
+Got: 45030389 edges
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 1.1151
+Allocating nnz vals: 45030389
+fn time: 7.40424
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 0.813735
+Allocating nnz vals: 45030389
+fn time: 5.76819
+Finished GraphMat read + construction, time: 20.5264
+ Start Tracing
+Completed 459 iterations 
+ Stop
+Instruction Count: 158098410009
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx1
+Got: 5363260 by 5363260  vertices
+Got: 79023142 edges
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.9139
+Allocating nnz vals: 79023142
+fn time: 13.0432
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.50733
+Allocating nnz vals: 79023142
+fn time: 9.8302
+Finished GraphMat read + construction, time: 35.8351
+ Start Tracing
+Completed 40 iterations 
+ Stop
+Instruction Count: 29182413443
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx1
+Got: 820878 by 820878  vertices
+Got: 9837214 edges
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.240572
+Allocating nnz vals: 9837214
+fn time: 1.57738
+Rank 0: Before shuffle 9837214 edges
+Rank 0: After shuffle 9837214 edges
+num partitions: 16
+set_edge_pointers time: 0.180609
+Allocating nnz vals: 9837214
+fn time: 1.19219
+Finished GraphMat read + construction, time: 4.45818
+ Start Tracing
+Completed 15 iterations 
+ Stop
+Instruction Count: 1453662353
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx1
+Got: 3566907 by 3566907  vertices
+Got: 45030389 edges
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 1.07969
+Allocating nnz vals: 45030389
+fn time: 7.34645
+Rank 0: Before shuffle 45030389 edges
+Rank 0: After shuffle 45030389 edges
+num partitions: 16
+set_edge_pointers time: 0.885652
+Allocating nnz vals: 45030389
+fn time: 5.82923
+Finished GraphMat read + construction, time: 20.3933
+ Start Tracing
+Completed 459 iterations 
+ Stop
+Instruction Count: 157856023456
+Exiting..
+Reading file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx0
+Could not open file: /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx1
+Got: 5363260 by 5363260  vertices
+Got: 79023142 edges
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.7571
+Allocating nnz vals: 79023142
+fn time: 12.9947
+Rank 0: Before shuffle 79023142 edges
+Rank 0: After shuffle 79023142 edges
+num partitions: 16
+set_edge_pointers time: 1.26525
+Allocating nnz vals: 79023142
+fn time: 9.58163
+Finished GraphMat read + construction, time: 35.4002
+ Start Tracing
+Completed 40 iterations 
+ Stop
+Instruction Count: 28990995737
+Exiting..
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/PageRankNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx 
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/PageRankNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx 
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/PageRankNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx 
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/BFSNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx 699669
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/BFSNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx 21033
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/BFSNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx 4878880
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/SSSPNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/flickr.mtx 699669
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/SSSPNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/wikipedia-20070206.mtx 21033
+time /nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/GraphMat/bin/SSSPNoStop /nobackup/swapnilh/benchmarks/GraphMat/data/ljournal-2008.mtx 4878880

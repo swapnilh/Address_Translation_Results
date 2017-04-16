@@ -1,0 +1,5 @@
+ Start Tracing
+ Stop
+Instruction Count: 2278989743
+Exiting..
+/nobackup/swapnilh/pin-tools/pin-3.2-81205-gcc-linux/pin -t obj-intel64/control.so -controller-start-ssc-mark 44332211 -controller-stop-ssc-mark 55332211 -- /nobackup/swapnilh/benchmarks/graph500-2.1.4/seq-csr/seq-csr -s 20 -V
